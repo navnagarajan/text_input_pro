@@ -1,6 +1,6 @@
 name: text_input_pro
 description: Text Input Box with in-build validators
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/navnagarajan/text_input_pro.git
 
 environment:
